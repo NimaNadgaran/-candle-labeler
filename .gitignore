@@ -1,0 +1,11 @@
+# Data & model files
+my_data.csv
+model_dir/
+data/xauusd_1min.csv
+
+# OS & Python
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
