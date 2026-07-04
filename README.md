@@ -36,6 +36,7 @@ candle-labeler/
 └── model_dir/                   # ← created automatically
     ├── online_model.pth
     └── replay_buffer.json
+```
 ---
 
 ## Installation
